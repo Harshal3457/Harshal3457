@@ -40,7 +40,7 @@ Focused on building scalable solutions and learning modern technologies.
   - Clients browse and download approved projects.  
   - Secure and structured project-sharing workflow.  
 
-### 🔹 MarketPlace *(In Progress)*  
+### 🔹 MarketPlace   
 - Ongoing project to create a **platform for buying and selling products/services**.  
 - Will integrate secure payment gateways, product listing, and role-based authentication.  
 
