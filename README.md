@@ -30,6 +30,20 @@ Focused on building scalable solutions and learning modern technologies.
 - Tech: PHP, HTML, CSS, JavaScript.  
 - Improved scheduling efficiency and reduced manual workload.  
 
+### 🔹 Project Management and Sharing Platform *(2025)*  
+- A **Java Servlet, JSP, and MySQL-based web application** for developers to upload projects and clients to download them.  
+- Roles: **Admin, Developer, and Client** with role-based access.  
+- Tech: JSP, Servlets, MySQL, Bootstrap, Apache Tomcat.  
+- Features:  
+  - Developer uploads projects with details.  
+  - Admin approves/removes projects and manages users.  
+  - Clients browse and download approved projects.  
+  - Secure and structured project-sharing workflow.  
+
+### 🔹 MarketPlace *(In Progress)*  
+- Ongoing project to create a **platform for buying and selling products/services**.  
+- Will integrate secure payment gateways, product listing, and role-based authentication.  
+
 ---
 
 ## 💼 Internship  
