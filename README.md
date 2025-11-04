@@ -1,71 +1,25 @@
-# 👋 Hi, I’m Harshal Chaudhari  
+<h1 align="center">Hi 👋, I'm Harshal Balu Chaudhari</h1>
+<h3 align="center">Frontend & Full-Stack Developer</h3>
 
-MCA student specializing in **Full-Stack Web Development** and **Java-based Applications**.  
-Focused on building scalable solutions and learning modern technologies.  
+- 🔭 I’m currently working on **Saraswati Tours And Travels**
 
----
+- 🌱 I’m currently learning **React, Spring**
 
-## 🛠 Skills  
-- **Languages:** Java, Python, PHP, JavaScript  
-- **Frameworks:** Spring Boot, Django, Angular  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** VS Code, Eclipse  
+- 👯 I’m looking to collaborate on **React & Flask Full-Stack Projects**
 
----
+- 💬 Ask me about **React, JavaScript (Intermediate), Flask, and Frontend Design**
 
-## 📂 Projects  
+- 📫 How to reach me **hchaudhari752@gmail.com +91 8999006052**
 
-### 🔹 Food Port *(Jul 2023)*  
-- Online food ordering system with **Admin, Hotel, and Customer modules**.  
-- Tech: Core Java, JSP, Servlets, MySQL, JDBC.  
-- Features: Hotel registration, menu management, dynamic cart, and order placement with COD.  
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1vSELIG8rZQE-19yfRy6iinX9pHZ6bL6H](https://drive.google.com/drive/folders/1vSELIG8rZQE-19yfRy6iinX9pHZ6bL6H)
 
-### 🔹 Pay-Day Jobs *(Nov 2024)*  
-- Job portal for **Job Seekers and Job Providers**.  
-- Tech: PHP, HTML, CSS, JavaScript.  
-- Features: Job posting, application tracking, and interactive dashboards.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17603650/harshal-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17603650/harshal-chaudhari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hchaudhari752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hchaudhari752" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/hchaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hchaudhari/" height="30" width="40" /></a>
+</p>
 
-### 🔹 Teacher Subject Allocation System *(Mar 2024)*  
-- Automated teacher subject allocation system.  
-- Tech: PHP, HTML, CSS, JavaScript.  
-- Improved scheduling efficiency and reduced manual workload.  
-
-### 🔹 Project Management and Sharing Platform *(2025)*  
-- A **Java Servlet, JSP, and MySQL-based web application** for developers to upload projects and clients to download them.  
-- Roles: **Admin, Developer, and Client** with role-based access.  
-- Tech: JSP, Servlets, MySQL, Bootstrap, Apache Tomcat.  
-- Features:  
-  - Developer uploads projects with details.  
-  - Admin approves/removes projects and manages users.  
-  - Clients browse and download approved projects.  
-  - Secure and structured project-sharing workflow.  
-
-### 🔹 MarketPlace   
-- Ongoing project to create a **platform for buying and selling products/services**.  
-- Will integrate secure payment gateways, product listing, and role-based authentication.  
-
----
-
-## 💼 Internship  
-
-**SDE Intern – Bluestock Infotech** *(Jan 2025 – Feb 2025)*  
-- Developed and optimized web applications using **PHP, JavaScript, MySQL**.  
-- Improved performance through SQL optimization and code refactoring.  
-- Worked in an Agile environment with daily stand-ups and sprint planning.  
-
----
-
-## 📜 Certifications  
-- ReactJS & Redux – Udemy  
-- Angular 19 – Simplilearn  
-- Python – Simplilearn  
-- SQL  
-- MongoDB Basics  
-- NodeJS with Express & MongoDB – Udemy  
-
----
-
-## 📫 Connect with Me  
-- 📧 [hchaudhari752@gmail.com](mailto:hchaudhari752@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harshal-chaudhari-608a21224)  
-- 🖥 [GitHub](https://github.com/Harshal3457)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
