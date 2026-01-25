@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SMM WEbsite**
 
-- 🌱 I’m currently learning **React, Spring**
+- 🌱 I’m currently learning **React, Spring , FastAPI**
 
 - 👯 I’m looking to collaborate on **React & Flask Full-Stack Projects**
 
