@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshal Balu Chaudhari</h1>
-<h3 align="center">Frontend & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Harshal  Chaudhari</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal3457&label=Profile%20views&color=0e75b6&style=flat" alt="harshal3457" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React & Flask Full-Stack Projects**
 
-- 💬 Ask me about **React, JavaScript (Intermediate), Flask, and Frontend Design**
+- 💬 Ask me about **React, Java , Flask, and Frontend Design**
 
 - 📫 How to reach me **hchaudhari752@gmail.com +91 8999006052**
 
