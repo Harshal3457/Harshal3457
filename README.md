@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Java , Flask, and Frontend Design**
 
-- 📫 How to reach me **hchaudhari752@gmail.com +91 8999006052**
+- 📫 How to reach me **hchaudhari752@gmail.com **
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1vSELIG8rZQE-19yfRy6iinX9pHZ6bL6H](https://drive.google.com/drive/folders/1vSELIG8rZQE-19yfRy6iinX9pHZ6bL6H)
 
